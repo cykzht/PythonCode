@@ -1,3 +1,4 @@
+#五角星绘制
 from turtle import *
 fillcolor("red")
 begin_fill()
